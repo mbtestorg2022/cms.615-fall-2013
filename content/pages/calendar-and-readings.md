@@ -117,7 +117,7 @@ Homework: Play Game from List, Write Short (2 page) Game Assessment Paper
 
 \[JH\] Finish reading before class.
 
-Mitgutsch, Konstantin, and Narda Alvarado. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Purposeful by Design? A Serious Game Design Assessment Framework." (PDF - 3.0MB)](http://gambit.mit.edu/readme/academic_papers/fdg2012_submission_82-1.pdf) _Proceedings of the International Conference on the Foundations of Digital Games_. ACM 121–28.
+Mitgutsch, Konstantin, and Narda Alvarado. ["Purposeful by Design? A Serious Game Design Assessment Framework." (PDF - 3.0MB)](http://gambit.mit.edu/readme/academic_papers/fdg2012_submission_82-1.pdf) _Proceedings of the International Conference on the Foundations of Digital Games_. ACM 121–28.
 
 
 {{< tdclose >}}
@@ -269,7 +269,7 @@ _Bogost and Sicart reading response due_
 Workshop: World Peace Game Project
 {{< tdclose >}}
 {{< tdopen >}}
-Linderoth, Jonas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Beyond the Digital Divide: An Ecological Approach to Gameplay." (PDF - 4.3MB)](http://www.digra.org/wp-content/uploads/digital-library/11307.03263.pdf) _Transactions of the Digital Games Research Association_ 1, no. 1 (2013).
+Linderoth, Jonas. ["Beyond the Digital Divide: An Ecological Approach to Gameplay." (PDF - 4.3MB)](http://www.digra.org/wp-content/uploads/digital-library/11307.03263.pdf) _Transactions of the Digital Games Research Association_ 1, no. 1 (2013).
 {{< tdclose >}}
 
 {{< trclose >}}
